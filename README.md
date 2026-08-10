@@ -118,7 +118,7 @@ public class Developer {
 ## `> stats --github`
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ayushchourasia03&show_icons=true&bg_color=0d1117&title_color=10b981&text_color=e6edf3&icon_color=10b981&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayushchourasia03&theme=github_dark" width="49%" alt="GitHub Profile Stats" />
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Ayushchourasia03&background=0d1117&stroke=10b981&ring=10b981&fire=10b981&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=10b981&sideLabels=10b981&dates=7d8590&hide_border=true" width="49%" alt="GitHub Streak" />
 </div>
 
@@ -147,5 +147,5 @@ public class Developer {
 ---
 
 <div align="center">
-  <sub>Built with focus and chai ☕ | Open to collaborations</sub>
+  <sub>Built with curiosity and chai ☕ | Open to collaborations & opportunities</sub>
 </div>
