@@ -8,7 +8,7 @@
   <tr>
     <td valign="middle">
       <!-- 1. Animated ASCII Portrait -->
-      <img src="avi-ascii.svg" width="370" alt="ASCII Portrait" />
+      <img src="200258052" width="370" alt="ASCII Portrait" />
     </td>
     <td valign="middle" align="center">
       <!-- 2. Animated Typing Header -->
