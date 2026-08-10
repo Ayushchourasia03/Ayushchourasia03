@@ -13,7 +13,7 @@
     <td valign="middle" align="center">
       <!-- 2. Animated Typing Header -->
       <a href="https://github.com/Ayushchourasia03">
-        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=%3E_+Ayush+Chourasia;AR%2FVR+Domain+Coordinator+%40+Innogeeks" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=%3E_+Ayush+Chourasia;WEB+Developer" alt="Typing SVG" />
       </a>
     </td>
   </tr>
