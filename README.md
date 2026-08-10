@@ -28,16 +28,16 @@
 ```java
 public class Developer {
     String name = "Ayush Chourasia";
-    String role = "AR/VR Domain Coordinator @ Innogeeks";
-    String education = "B.Tech CSE @ KIET Group of Institutions | 8.5 CGPA";
+    String role = "WEB Developer";
+    String education = "B.Tech ECE @ KIET Group of Institutions | 8.5 CGPA";
     
     String[] expertise = {
-        "AR/VR & Spatial Computing (Unity, WebXR, C#)",
         "Full-Stack Web Dev (React.js, JavaScript, Python, SQL)",
+        "AR/VR & Spatial Computing (Unity, WebXR, C#)",
         "UI/UX & Graphic Design (Figma, Adobe Suite)"
     };
     
-    String currentFocus = "Building Navix & Immersive Spatial Experiences";
+    String currentFocus = "Building Tech (Navix & Immersive Spatial Experiences)";
     int studentsMentored = 40;  // Lead AR/VR vertical @ Innogeeks
 }
 ```
