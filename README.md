@@ -85,7 +85,7 @@ public class Developer {
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/Agentic_AI-10B981?style=flat-square) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-<a href="https://github.com/Ayushchourasia03"><img src="https://img.shields.io/badge/→_View_Code-10B981?style=for-the-badge" /></a>
+<a href="https://github.com/mahakaal2005/NaviX"><img src="https://img.shields.io/badge/→_View_Code-10B981?style=for-the-badge" /></a>
 
 </td>
 </tr>
