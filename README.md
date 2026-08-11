@@ -147,5 +147,5 @@ public class Developer {
 ---
 
 <div align="center">
-  <sub>Built with curiosity and chai ☕ | Open to collaborations & opportunities</sub>
+  <sub>Open to collaborations & opportunities</sub>
 </div>
